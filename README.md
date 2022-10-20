@@ -40,7 +40,7 @@ untuk menambahkan remote repository server, gunakan perintah
 git remote add origin [url]
 git remote add origin https://github.com/ASEPSAEPULOH21/latihan11.git
 
-
+![gambar](screenshot/Screenshot%20(1).png)
 
 ## MENGIRIM PERUBAHAN KE SERVER (PUSH)
 Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
