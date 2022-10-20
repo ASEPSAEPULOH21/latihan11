@@ -38,7 +38,7 @@ Remote Repository merupakan repository server yang akan digunakan untuk menyimpa
 untuk menambahkan remote repository server, gunakan perintah
 
 git remote add origin [url]
-git remote add origin https://github.com/nisanst11/icanst.git
+git remote add origin https://github.com/ASEPSAEPULOH21/latihan11.git
 
 
 
